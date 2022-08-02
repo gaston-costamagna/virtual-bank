@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/virtual-bank/static/css/main.7e91629d.css",
+    "main.js": "/virtual-bank/static/js/main.ca2bf611.js",
+    "static/media/video.mp4": "/virtual-bank/static/media/video.82cc8c261e988dfd23a6.mp4",
+    "static/media/svg-2.svg": "/virtual-bank/static/media/svg-2.5bd95559349b769eab548669087ffe65.svg",
+    "static/media/svg-1.svg": "/virtual-bank/static/media/svg-1.41fb961e3cc1aa403a11b31108edd6d9.svg",
+    "static/media/svg-3.svg": "/virtual-bank/static/media/svg-3.25c87259cb17ab800cc6e447a76d414f.svg",
+    "index.html": "/virtual-bank/index.html",
+    "main.7e91629d.css.map": "/virtual-bank/static/css/main.7e91629d.css.map",
+    "main.ca2bf611.js.map": "/virtual-bank/static/js/main.ca2bf611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e91629d.css",
+    "static/js/main.ca2bf611.js"
+  ]
+}
